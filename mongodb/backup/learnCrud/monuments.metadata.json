@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"dd05b4f43c4f4a3482f3db04a58fb7f7","collectionName":"monuments","type":"collection"}
